@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="701264d5-e8c9-44a8-8b03-ac5ac4714df3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springbootbackendapirest/controllers/ClienteRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springbootbackendapirest/models/dao/IClienteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springbootbackendapirest/models/entity/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springbootbackendapirest/models/services/ClienteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-backend-apirest/src/main/java/com/bolsadeideas/springbootbackendapirest/models/services/IClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular/clientes-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/clientes-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/clientes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/clientes.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/clientes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/clientes.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/detalle/detalle.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/detalle/detalle.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/detalle/detalle.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/clientes-app/src/app/clientes/detalle/detalle.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jbBkQesqeFktpKFq53y2Izw1Xt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-backend-apirest" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="701264d5-e8c9-44a8-8b03-ac5ac4714df3" name="Default Changelist" comment="" />
+      <created>1604063053618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604063053618</updated>
+      <workItem from="1604063055355" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1786" y="246" key="FileChooserDialogImpl" timestamp="1604063091256">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="1786" y="246" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1604063091256" />
+  </component>
+</project>
